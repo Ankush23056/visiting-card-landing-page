@@ -1,6 +1,6 @@
 Here’s an **optimized** version of your README—shorter, more focused, and even easier to scan, while keeping a friendly, personal tone and highlighting key features:
 
-***
+---
 
 # Visiting Card Showcase Landing Page
 
@@ -49,12 +49,13 @@ visiting-card-showcase/
 ## 💡 What’s Next?
 
 **Ideas for future upgrades:**
+
 - Modal popups for details
 - Image carousel
 - Contact form
 - Dark mode
 - Loading skeletons  
-*...and more, like CMS support, custom card designer, export, accessibility & performance boosts!*
+  _...and more, like CMS support, custom card designer, export, accessibility & performance boosts!_
 
 ## ✔️ Best Practices Followed
 
@@ -70,12 +71,11 @@ Tested across Chrome, Firefox, Safari, Edge, and Opera (latest).
 ## 📚 Credits
 
 - Fonts: Google Fonts (Poppins)
-- Images: (https://via.placeholder.com/)
+- Images: https://www.pexels.com/
 - Icons: Custom SVG
 
-***
+---
 
 Developed by: **Ankush Kumar**  
 Date: **November 11, 2025**  
 Assignment: Frontend Internship – Visiting Card Showcase Landing Page
-
