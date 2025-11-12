@@ -77,5 +77,5 @@ Tested across Chrome, Firefox, Safari, Edge, and Opera (latest).
 ---
 
 Developed by: **Ankush Kumar**  
-Date: **November 11, 2025**  
+Date: **November 12, 2025**  
 Assignment: Frontend Internship – Visiting Card Showcase Landing Page
