@@ -1,7 +1,3 @@
-Here’s an **optimized** version of your README—shorter, more focused, and even easier to scan, while keeping a friendly, personal tone and highlighting key features:
-
----
-
 # Visiting Card Showcase Landing Page
 
 ## ✨ Overview
